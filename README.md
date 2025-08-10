@@ -1,4 +1,3 @@
-Here’s a **clean, well-structured README** for your Flipkart Redmi Phone Web Scraper project, with everything organized for clarity and professionalism:
 
 ---
 
