@@ -1,0 +1,10 @@
+# Narasimha owns the scraper and test files
+
+# All files in the repo
+* @narasimha
+
+# Specifically own the scraper file
+scraper.py @narasimha
+
+# Own all test files
+tests/ @narasimha
