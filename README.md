@@ -148,11 +148,3 @@ OUTPUT_FILE = "data/flipkart_redmi.csv"
 ## 📄 License 
 
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it with proper attribution.
-
----
-<<<<<<< HEAD
-
-If you want, I can also **add badges** (Python version, License, Last Commit, etc.) at the top of the README so it looks more professional on GitHub.
-Do you want me to make that version?
-=======
->>>>>>> 89e67e4cc18ad295590fa0853eb5cac1e1bedd13
