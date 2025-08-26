@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This Python project scrapes **product details** — such as **name, price, and discount** — for **Redmi smartphones** from [Flipkart](https://www.flipkart.com/) using **Selenium** and **BeautifulSoup**, then saves them into a **CSV file** for further analysis.
+This Python  project scrapes **product details** — such as **name, price, and discount** — for **Redmi smartphones** from [Flipkart](https://www.flipkart.com/) using **Selenium** and **BeautifulSoup**, then saves them into a **CSV file** for further analysis.
 
 > ⚠ **Disclaimer:** This script is for **educational purposes only**. Web scraping Flipkart may violate its Terms of Use. Ensure you have permission before running it on their live website.
 
