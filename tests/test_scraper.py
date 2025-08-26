@@ -5,6 +5,7 @@ import subprocess
 # Path to the CSV output file
 CSV_PATH = "data/flipkart_redmi.csv"
 
+
 def setup_module(module):
     """
     Runs the scraper before tests if the CSV file doesn't exist.
